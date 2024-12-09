@@ -1,7 +1,7 @@
-# Ippanel SMS Pro Gravity
+# Gravity Form SMS Pro 3
 Tags: SMS ، Gravity ، Gravity Sms ، گراویتی اس ام اس ، گرویتی اس ام اس ، اس ام اس ، پیامک ، گرویتی ، گراویتی ،
 Requires at least: 5.0.3
-Tested up to: 5.7.1
+Tested up to: 5.8.1
 Requires PHP: 7.0
 Stable tag: 2.1
 
@@ -18,15 +18,15 @@ Stable tag: 2.1
 <p>پس از تکمیل فرم توسط کاربر، می توانید متن دلخواه خود را به صورت خودکار به کابر و مدیر سایت ، پیامک ارسال نمایید .</p>
 
 
-<b>Ippanel SMS Plugin for WordPress and Gravity Form</b>
+<b>SMS Plugin for WordPress and Gravity Form</b>
 
 <p>With this plugin you can add the ability to send SMS to the forms designed in the Gravity Form extension.</p>
 
 <p>Once the form is completed by the user, you can automatically send your favorite text to the user and admin.</p>
 
 == Installation ==
-1. Install Ippanel SMS Pro Gv extension on your WordPress CMS.
-2. Now, go to the setting section which is added to Gravity WordPress menu, choose "تنظیمات", then "تنظیمات پیامک" and enter your Ippanel gateway and the number you want to use when you're sending an SMS.
+1. Install SMS Pro Gv extension on your WordPress CMS.
+2. Now, go to the setting section which is added to Gravity WordPress menu, choose "تنظیمات", then "تنظیمات پیامک" and enter your gateway and the number you want to use when you're sending an SMS.
 
 == Frequently Asked Questions ==
 
