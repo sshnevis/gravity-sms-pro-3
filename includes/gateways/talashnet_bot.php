@@ -51,6 +51,9 @@ class GFHANNANSMS_Pro_Talashnet_Bot {
 		if ($action == "send") {
 		    
 		    $message = urlencode($message);
+			//$url = "https://talashnet-bot.sina-shiri.workers.dev/?to=$reciever&text=$message";
+			//$url = "https://telegram.nikshow.ir/talashnet_bot/webservice.php?to=$reciever&text=$message";
+			
 			$url = "https://exiryab.com/talashnet_bot.php?to=$reciever&text=$message";
 		
 			if ( extension_loaded( 'curl' ) ) {
