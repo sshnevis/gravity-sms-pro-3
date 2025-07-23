@@ -15,7 +15,8 @@ class GFHANNANSMS_Pro_Configurations {
 
 	public static function configuration() {
 
-		wp_register_style( 'gform_admin_sms', GFCommon::get_base_url() . '/css/admin.css' );
+		//wp_register_style( 'gform_admin_sms', GFCommon::get_base_url() . '/css/admin.css' );
+		wp_register_style( 'gform_admin_sms', GF_SMS_URL . '/assets/css/admin.css' );
 		wp_print_styles( array( 'jquery-ui-styles', 'gform_admin_sms', 'wp-pointer' ) ); ?>
 
         <div class="wrap gforms_edit_form gf_browser_gecko">
